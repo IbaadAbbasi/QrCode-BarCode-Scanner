@@ -1,0 +1,11 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+    <header
+        android:fragment="Com.Scanner.QrBarcode.setting.SettingsActivity$GeneralPreferenceFragment"
+        android:title="General"/>
+    <header
+        android:fragment="Com.Scanner.QrBarcode.setting.SettingsActivity$HistoryPreferenceFragment"
+        android:title="History"/>
+    <header
+        android:fragment="Com.Scanner.QrBarcode.setting.SettingsActivity$AboutPreferenceFragment"
+        android:title="About"/>
+</preference-headers>
